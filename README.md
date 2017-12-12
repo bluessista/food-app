@@ -6,7 +6,7 @@ my first react js project will go into this repository - lets see how I can rock
 
 - Second step will be to setup the project structur:
   - view 1: recipe overview
-    - teaser w/ title, thumbnail, shortdescription, category
+    - title, thumbnail, shortdescription, time (to cook), kcal, category
   - view 2: recipes:
     - title
     - image
